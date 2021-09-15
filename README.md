@@ -13,4 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### <p align="center">👀 &nbsp;Visiteurs</p>
+<br>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AfterNath/count.svg" />
+</p>
+<br>
 -->
